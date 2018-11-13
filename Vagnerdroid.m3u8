@@ -1,0 +1,579 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="" group-title="Reality",A Fazenda HD
+https://nn4.azureedge.net//hls1/afazenda.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",A Fazenda SD
+https://nn4.azureedge.net//hls1/afazenda-sd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Abertos",Globo  HD
+https://nn4.azureedge.net//hls1/bobosp.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Abertos",Globo  SD
+https://nn4.azureedge.net//hls1/bobosp-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Abertos",SBT HD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1935973413_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="",SBT SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1862108821_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Abertos",Record HD
+https://nn4.azureedge.net//hls1/recordsp.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Abertos",Record SD
+https://nn4.azureedge.net//hls1/recordsp-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/cartoon.jpg" group-title="Infantil",Cartoon Network HD
+https://nn4.azureedge.net//hls1/cartoon.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/cartoon.jpg" group-title="Infantil",Cartoon Network SD
+https://nn4.azureedge.net//hls1/cartoon-sd.m3u8
+
+#EXTINF:-1 tvg-logo="http://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/zoomoo.jpg" group-title="Infantil",Zoomoo HD
+https://nn4.azureedge.net//hls1/zoomoo.m3u8
+
+#EXTINF:-1 tvg-logo="http://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/zoomoo.jpg" group-title="Infantil",Zoomoo SD
+https://nn4.azureedge.net//hls1/zoomoo-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tooncast.jpg" group-title="Infantil",Tooncast HD
+https://nn4.azureedge.net//hls1/tooncast.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tooncast.jpg" group-title="Infantil",Tooncast SD
+https://nn4.azureedge.net//hls1/tooncast-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/nickjr.jpg" group-title="Infantil",NickJR. HD
+https://nn4.azureedge.net//hls1/nickjr.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/nickjr.jpg" group-title="Infantil",NickJR. SD
+https://nn4.azureedge.net//hls1/nickjr-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Nick.jpg" group-title="Infantil",Nickelodeon HD
+https://nn4.azureedge.net//hls1/nick.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Nick.jpg" group-title="Infantil",Nickelodeon SD
+https://nn4.azureedge.net//hls1/nick-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/disneyjunior.jpg" group-title="Infantil",Disney Junior HD
+https://nn3.azureedge.net//hls1/disneyjunior.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/disneyjunior.jpg" group-title="Infantil",Disney Junior SD
+https://nn3.azureedge.net//hls1/disneyjunior-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/disneyxd.jpg" group-title="Infantil",DisneyXD HD
+https://nn3.azureedge.net//hls1/disneyxd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/disneyxd.jpg" group-title="Infantil",DisneyXD SD
+https://nn3.azureedge.net//hls1/disneyxd-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Disney.jpg" group-title="Infantil",Disney Channel HD
+https://nn3.azureedge.net//hls1/disney.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Disney.jpg" group-title="Infantil",Disney Channel SD
+https://nn3.azureedge.net//hls1/disney-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/DiscoveryKids.jpg" group-title="Infantil",Discovery Kids HD
+https://nn4.azureedge.net//hls1/discoverykids.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/DiscoveryKids.jpg" group-title="Infantil",Discovery Kids SD
+https://nn4.azureedge.net//hls1/discoverykids-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Boomerang.jpg" group-title="Infantil",Boomerang HD
+https://nn3.azureedge.net//hls1/boomerang.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Boomerang.jpg" group-title="Infantil",Boomerang SD
+https://nn3.azureedge.net//hls1/boomerang-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Gloob.jpg" group-title="Infantil",Gloob HD
+https://nn3.azureedge.net//hls1/gloob.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Gloob.jpg" group-title="Infantil",Gloob SD
+https://nn3.azureedge.net//hls1/gloob-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/NatGeoKids.jpg" group-title="Infantil",NatGeo Kids HD
+https://nn4.azureedge.net//hls1/natgeokids.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/NatGeoKids.jpg" group-title="Infantil",NatGeo Kids SD
+https://nn4.azureedge.net//hls1/natgeokids-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/globonews.jpg" group-title="Notícias",Globo News HD
+https://nn3.azureedge.net//hls1/globonews.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/globonews.jpg" group-title="Notícias",Globo News SD
+https://nn3.azureedge.net//hls1/globonews-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/bandnews.jpg" group-title="Notícias",Band News HD
+https://nn4.azureedge.net//hls1/bandnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/bandnews.jpg" group-title="Notícias",Band News SD
+https://nn4.azureedge.net//hls1/bandnews-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/history.jpg" group-title="Documentários",History HD
+https://nn3.azureedge.net//hls1/history.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/history.jpg" group-title="Documentários",History SD
+https://nn3.azureedge.net//hls1/history-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/history2.jpg" group-title="Documentários",History 2 HD
+https://nn3.azureedge.net//hls1/history2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/history2.jpg" group-title="Documentários",History 2 SD
+https://nn3.azureedge.net//hls1/history2-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/natgeo.jpg" group-title="Documentários",National Geographic HD
+https://nn4.azureedge.net//hls1/natgeo.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/natgeo.jpg" group-title="Documentários",National Geographic SD
+https://nn4.azureedge.net//hls1/natgeo-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Natgeowild.jpg" group-title="Documentários",NatGeo Wild HD
+https://nn4.azureedge.net//hls1/natgeowild.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Natgeowild.jpg" group-title="Documentários",NatGeo Wild SD
+https://nn4.azureedge.net//hls1/natgeowild-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/AnimalPlanet.jpg" group-title="Documentários",Animal Planet HD
+https://nn3.azureedge.net//hls1/animalplanet.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/AnimalPlanet.jpg" group-title="Documentários",Animal Planet SD
+https://nn3.azureedge.net//hls1/animalplanet-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discovery.jpg" group-title="Documentários",Discovery Channel HD
+https://nn3.azureedge.net//hls1/discovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discovery.jpg" group-title="Documentários",Discovery Channel SD
+https://nn3.azureedge.net//hls1/discovery-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoverytheater.jpg" group-title="Documentários",Discovery Theater HD
+https://nn3.azureedge.net//hls1/discoverytheater.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoverytheater.jpg" group-title="Documentários",Discovery Theater SD
+https://nn3.azureedge.net//hls1/discoverytheater-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoveryturbo.jpg" group-title="Documentários",Discovery Turbo HD
+https://nn3.azureedge.net//hls1/discoveryturbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoveryturbo.jpg" group-title="Documentários",Discovery Turbo SD
+https://nn3.azureedge.net//hls1/discoveryturbo-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoverycivilization.jpg" group-title="Documentários",Discovery Civilization HD
+https://nn4.azureedge.net//hls1/discoverycivilization.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoverycivilization.jpg" group-title="Documentários",Discovery Civilization SD
+https://nn4.azureedge.net//hls1/discoverycivilization-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoverysience.jpg" group-title="Documentários",Discovery Science HD
+https://nn4.azureedge.net//hls1/discoverysience.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoverysience.jpg" group-title="Documentários",Discovery Science SD
+https://nn4.azureedge.net//hls1/discoverysience-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/investigacaodiscovery.jpg" group-title="Documentários",Investigação Discovery HD
+https://nn4.azureedge.net//hls1/investigacaodiscovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/investigacaodiscovery.jpg" group-title="Documentários",Investigação Discovery SD
+https://nn4.azureedge.net//hls1/investigacaodiscovery-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoveryworld.jpg" group-title="Documentários",Discovery World HD
+https://nn3.azureedge.net//hls1/discoveryworld.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoveryworld.jpg" group-title="Documentários",Discovery World SD
+https://nn3.azureedge.net//hls1/discoveryworld-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/fox.jpg" group-title="Filmes/Séries",FOX HD
+https://nn3.azureedge.net//hls1/fox.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/fox.jpg" group-title="Filmes/Séries",FOX SD
+https://nn3.azureedge.net//hls1/fox-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxpremium1.jpg" group-title="Filmes/Séries",Fox Premium 1 HD
+https://nn4.azureedge.net//hls1/foxpremium1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxpremium1.jpg" group-title="Filmes/Séries",Fox Premium 1 SD
+https://nn4.azureedge.net//hls1/foxpremium1-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxpremium2.jpg" group-title="Filmes/Séries",Fox Premium 2 HD
+https://nn4.azureedge.net//hls1/foxpremium2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxpremium2.jpg" group-title="Filmes/Séries",Fox Premium 2 SD
+https://nn4.azureedge.net//hls1/foxpremium2-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tnt.jpg" group-title="Filmes/Séries",TNT HD
+https://nn4.azureedge.net//hls1/tnt.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tnt.jpg" group-title="Filmes/Séries",TNT SD
+https://nn4.azureedge.net//hls1/tnt-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tntseries.jpg" group-title="Filmes/Séries",TNT Séries HD
+https://nn4.azureedge.net//hls1/tntseries.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tntseries.jpg" group-title="Filmes/Séries",TNT Séries SD
+https://nn4.azureedge.net//hls1/tntseries-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Megapix.jpg" group-title="Filmes/Séries",Megapix HD
+https://nn4.azureedge.net//hls1/megapix.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Megapix.jpg" group-title="Filmes/Séries",Megapix SD
+https://nn4.azureedge.net//hls1/megapix-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Space.jpg" group-title="Filmes/Séries",Space HD
+https://nn4.azureedge.net//hls1/space.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Space.jpg" group-title="Filmes/Séries",Space SD
+https://nn4.azureedge.net//hls1/space-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecineaction.jpg" group-title="Filmes/Séries",Telecine Action HD
+https://nn4.azureedge.net//hls1/telecineaction.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecineaction.jpg" group-title="Filmes/Séries",Telecine Action SD
+https://nn4.azureedge.net//hls1/telecineaction-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinefun.jpg" group-title="Filmes/Séries",Telecine Fun HD
+https://nn3.azureedge.net//hls1/telecinefun.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinefun.jpg" group-title="Filmes/Séries",Telecine Fun SD
+https://nn3.azureedge.net//hls1/telecinefun-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinepipoca.jpg" group-title="Filmes/Séries",Telecine Pipoca HD
+https://nn4.azureedge.net//hls1/telecinepipoca.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinepipoca.jpg" group-title="Filmes/Séries",Telecine Pipoca SD
+https://nn4.azureedge.net//hls1/telecinepipoca-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinepremium.jpg" group-title="Filmes/Séries",Telecine Premium HD
+https://nn4.azureedge.net//hls1/telecinepremium.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinepremium.jpg" group-title="Filmes/Séries",Telecine Premium SD
+https://nn4.azureedge.net//hls1/telecinepremium-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinetouch.jpg" group-title="Filmes/Séries",Telecine Touch HD
+https://nn3.azureedge.net//hls1/telecinetouch.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinetouch.jpg" group-title="Filmes/Séries",Telecine Touch SD
+https://nn3.azureedge.net//hls1/telecinetouch-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinecult.jpg" group-title="Filmes/Séries",Telecine Cult HD
+https://nn4.azureedge.net//hls1/telecinecult.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinecult.jpg" group-title="Filmes/Séries",Telecine Cult SD
+https://nn4.azureedge.net//hls1/telecinecult-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/amc.jpg" group-title="Filmes/Séries",AMC HD
+https://nn4.azureedge.net//hls1/amc.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/amc.jpg" group-title="Filmes/Séries",AMC SD
+https://nn4.azureedge.net//hls1/amc-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbo.jpg" group-title="Filmes/Séries",HBO HD
+https://nn3.azureedge.net//hls1/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbo.jpg" group-title="Filmes/Séries",HBO SD
+https://nn3.azureedge.net//hls1/hbo-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbo2.jpg" group-title="Filmes/Séries",HBO 2 HD
+https://nn3.azureedge.net//hls1/hbo2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbo2.jpg" group-title="Filmes/Séries",HBO 2 SD
+https://nn3.azureedge.net//hls1/hbo2-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hboplus.jpg" group-title="Filmes/Séries",HBO Plus HD
+https://nn3.azureedge.net//hls1/hboplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hboplus.jpg" group-title="Filmes/Séries",HBO Plus SD
+https://nn3.azureedge.net//hls1/hboplus-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbofamily.jpg" group-title="Filmes/Séries",HBO Family HD
+https://nn3.azureedge.net//hls1/hbofamily.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbofamily.jpg" group-title="Filmes/Séries",HBO Family SD
+https://nn3.azureedge.net//hls1/hbofamily-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbosignature.jpg" group-title="Filmes/Séries",HBO Signature HD
+https://nn3.azureedge.net//hls1/hbosignature.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbosignature.jpg" group-title="Filmes/Séries",HBO Signature SD
+https://nn3.azureedge.net//hls1/hbosignature-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/universal.jpg" group-title="Filmes/Séries",Universal Channel HD
+https://nn3.azureedge.net//hls1/universal.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/universal.jpg" group-title="Filmes/Séries",Universal Channel SD
+https://nn3.azureedge.net//hls1/universal-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/StudioUniversal.jpg" group-title="Filmes/Séries",Stúdio Universal HD
+https://nn4.azureedge.net//hls1/studiouniversal.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/StudioUniversal.jpg" group-title="Filmes/Séries",Stúdio Universal SD
+https://nn4.azureedge.net//hls1/studiouniversal-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/warner.jpg" group-title="Filmes/Séries",Warner HD
+https://nn4.azureedge.net//hls1/warner.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/warner.jpg" group-title="Filmes/Séries",Warner SD
+https://nn4.azureedge.net//hls1/warner-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/maxup.jpg" group-title="Filmes/Séries",Max UP HD
+https://nn3.azureedge.net//hls1/maxup.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/maxup.jpg" group-title="Filmes/Séries",Max UP SD
+https://nn3.azureedge.net//hls1/maxup-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/maxprime.jpg" group-title="Filmes/Séries",Max Prime HD
+https://nn4.azureedge.net//hls1/maxprime.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/maxprime.jpg" group-title="Filmes/Séries",Max Prime SD
+https://nn4.azureedge.net//hls1/maxprime-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/cinemax.jpg" group-title="Filmes/Séries",Cinemax HD
+https://nn4.azureedge.net//hls1/cinemax.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/cinemax.jpg" group-title="Filmes/Séries",Cinemax SD
+https://nn4.azureedge.net//hls1/cinemax-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/fx.jpg" group-title="Filmes/Séries",FX HD
+https://nn4.azureedge.net//hls1/fx.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/fx.jpg" group-title="Filmes/Séries",FX SD
+https://nn4.azureedge.net//hls1/fx-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/aie.jpg" group-title="Filmes/Séries",A&E HD
+https://nn3.azureedge.net//hls1/aie.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/aie.jpg" group-title="Filmes/Séries",A&E SD
+https://nn3.azureedge.net//hls1/aie-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/sony.jpg" group-title="Filmes/Séries",Sony HD
+https://nn4.azureedge.net//hls1/sony.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/sony.jpg" group-title="Filmes/Séries",Sony SD
+https://nn4.azureedge.net//hls1/sony-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/AXN.jpg" group-title="Filmes/Séries",AXN HD
+https://nn3.azureedge.net//hls1/axn.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/AXN.jpg" group-title="Filmes/Séries",AXN SD
+https://nn3.azureedge.net//hls1/axn-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/syfy.jpg" group-title="Filmes/Séries",SYFY HD
+https://nn4.azureedge.net//hls1/syfy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/syfy.jpg" group-title="Filmes/Séries",SYFY SD
+https://nn4.azureedge.net//hls1/syfy-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/curta.jpg" group-title="Variedades",Curta! HD
+https://nn3.azureedge.net//hls1/curta.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/curta.jpg" group-title="Variedades",Curta! SD
+https://nn3.azureedge.net//hls1/curta-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/comedycentral.jpg" group-title="",Comedy Central HD
+https://nn3.azureedge.net//hls1/comedycentral.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/comedycentral.jpg" group-title="",Comedy Central SD
+https://nn3.azureedge.net//hls1/comedycentral-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tcm.jpg" group-title="Variedades",TCM HD
+https://nn3.azureedge.net//hls1/tcm.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tcm.jpg" group-title="Variedades",TCM SD
+https://nn3.azureedge.net//hls1/tcm-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/paramount.jpg" group-title="Filmes/Séries",Paramout Channel HD
+https://nn3.azureedge.net//hls1/paramount.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/paramount.jpg" group-title="Filmes/Séries",Paramout Channel SD
+https://nn3.azureedge.net//hls1/paramount-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Lifetime.jpg" group-title="Variedades",Lifetime HD
+https://nn3.azureedge.net//hls1/lifetime.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Lifetime.jpg" group-title="Variedades",Lifetime SD
+https://nn3.azureedge.net//hls1/lifetime-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Arte1.jpg" group-title="Variedades",Arte1 HD
+https://nn3.azureedge.net//hls1/arte1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Arte1.jpg" group-title="Variedades",Arte1 SD
+https://nn3.azureedge.net//hls1/arte1-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/espnbrasil.jpg" group-title="Esportes",ESPN Brasil HD
+https://nn4.azureedge.net//hls1/espnbrasil.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/espnbrasil.jpg" group-title="Esportes",ESPN Brasil SD
+https://nn4.azureedge.net//hls1/espnbrasil-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/bandsports.jpg" group-title="Esportes",Band Sports HD
+https://nn4.azureedge.net//hls1/bandsports.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/bandsports.jpg" group-title="Esportes",Band Sports SD
+https://nn4.azureedge.net//hls1/bandsports-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/combate.jpg" group-title="Esportes",Combate HD
+https://nn3.azureedge.net//hls1/combate.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/combate.jpg" group-title="Esportes",Combate SD
+https://nn3.azureedge.net//hls1/combate-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/espn.jpg" group-title="Esportes",ESPN HD
+https://nn4.azureedge.net//hls1/espn.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/espn.jpg" group-title="Esportes",ESPN SD
+https://nn4.azureedge.net//hls1/espn-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/espn2.jpg" group-title="Esportes",ESPN 2 HD
+https://nn3.azureedge.net//hls1/espn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/espn2.jpg" group-title="Esportes",ESPN 2 SD
+https://nn3.azureedge.net//hls1/espn2-sd.m3u8
+
+#EXTINF:-1 tvg-logo="http://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/espnextra.jpg" group-title="Esportes",ESPN Extra HD
+https://nn4.azureedge.net//hls1/espnextra.m3u8
+
+#EXTINF:-1 tvg-logo="http://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/espnextra.jpg" group-title="Esportes",ESPN Extra SD
+https://nn4.azureedge.net//hls1/espnextra-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxsports1.jpg" group-title="Esportes",Fox Sports HD
+https://nn3.azureedge.net//hls1/foxsports1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxsports1.jpg" group-title="Esportes",Fox Sports SD
+https://nn3.azureedge.net//hls1/foxsports1-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxsports2.jpg" group-title="Esportes",Fox Sports 2 HD
+https://nn3.azureedge.net//hls1/foxsports2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxsports2.jpg" group-title="Esportes",Fox Sports 2 SD
+https://nn3.azureedge.net//hls1/foxsports2-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiereclubes.jpg" group-title="Esportes",Premiere Clubes HD
+https://nn4.azureedge.net//hls1/premiereclubes.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiereclubes.jpg" group-title="Esportes",Premiere Clubes SD
+https://nn4.azureedge.net//hls1/premiereclubes-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere2.jpg" group-title="Esportes",Premiere 2 HD
+https://nn4.azureedge.net//hls1/premiere2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere2.jpg" group-title="Esportes",Premiere 2 SD
+https://nn4.azureedge.net//hls1/premiere2-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere3.jpg" group-title="Esportes",Premiere 3 HD
+https://nn4.azureedge.net//hls1/premiere3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere3.jpg" group-title="Esportes",Premiere 3 SD
+https://nn4.azureedge.net//hls1/premiere3-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere4.jpg" group-title="Esportes",Premiere 4 HD
+https://nn4.azureedge.net//hls1/premiere4.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere4.jpg" group-title="Esportes",Premiere 4 SD
+https://nn4.azureedge.net//hls1/premiere4-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere5.jpg" group-title="Esportes",Premiere 5 HD
+https://nn4.azureedge.net//hls1/premiere5.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere5.jpg" group-title="Esportes",Premiere 5 SD
+https://nn4.azureedge.net//hls1/premiere5-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere6.jpg" group-title="Esportes",Premiere 6 HD
+https://nn4.azureedge.net//hls1/premiere6.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere6.jpg" group-title="Esportes",Premiere 6 SD
+https://nn4.azureedge.net//hls1/premiere6-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere7.jpg" group-title="Esportes",Premiere 7 HD
+https://nn4.azureedge.net//hls1/premiere7.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere7.jpg" group-title="Esportes",Premiere 7 SD
+https://nn4.azureedge.net//hls1/premiere7-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/SporTV1.jpg" group-title="Esportes",SporTV 1 HD
+https://nn3.azureedge.net//hls1/sportv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/SporTV1.jpg" group-title="Esportes",SporTV 1 SD
+https://nn3.azureedge.net//hls1/sportv1-sd.m3u8
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/SporTV2.jpg" group-title="Esportes",SporTV 2 HD
+https://nn3.azureedge.net//hls1/sportv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/SporTV2.jpg" group-title="Esportes",SporTV 2 SD
+https://nn3.azureedge.net//hls1/sportv2-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/SporTV3.jpg" group-title="Esportes",SporTV 3 HD
+https://nn3.azureedge.net//hls1/sportv3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/SporTV3.jpg" group-title="Esportes",SporTV 3 SD
+https://nn3.azureedge.net//hls1/sportv3-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/bis.jpg" group-title="Variedades",BIS HD
+https://nn4.azureedge.net//hls1/bis.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/bis.jpg" group-title="Variedades",BIS SD
+https://nn4.azureedge.net//hls1/bis-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/off.jpg" group-title="Variedades",Canal Off HD
+https://nn4.azureedge.net//hls1/off.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/off.jpg" group-title="Variedades",Canal Off SD
+https://nn4.azureedge.net//hls1/off-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoveryhomeihealth.jpg" group-title="Variedades",Discovery Home&Health HD
+https://nn4.azureedge.net//hls1/discoveryhomeihealth.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoveryhomeihealth.jpg" group-title="Variedades",Discovery Home&Health SD
+https://nn4.azureedge.net//hls1/discoveryhomeihealth-sd.m3u8
+
+#EXTINF:-1 tvg-logo="http://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/canale.jpg" group-title="",E! Entertainment HD
+https://nn4.azureedge.net//hls1/canale.m3u8
+
+#EXTINF:-1 tvg-logo="http://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/canale.jpg" group-title="",E! Entertainment SD
+https://nn4.azureedge.net//hls1/canale-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/fishtv.jpg" group-title="Variedades",Fish TV HD
+https://nn4.azureedge.net//hls1/fishtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/fishtv.jpg" group-title="Variedades",Fish TV SD
+https://nn4.azureedge.net//hls1/fishtv-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxlife.jpg" group-title="Variedades",Fox Life HD
+https://nn4.azureedge.net//hls1/foxlife.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxlife.jpg" group-title="Variedades",Fox Life SD
+https://nn4.azureedge.net//hls1/foxlife-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/GNT.jpg" group-title="Variedades",GNT HD
+https://nn4.azureedge.net//hls1/gnt.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/GNT.jpg" group-title="Variedades",GNT SD
+https://nn4.azureedge.net//hls1/gnt-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/maisglobosat.jpg" group-title="Variedades",Mais Globosat HD
+https://nn4.azureedge.net//hls1/maisbobosat.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/maisglobosat.jpg" group-title="Variedades",Mais Globosat SD
+https://nn4.azureedge.net//hls1/maisbobosat-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/mtv.jpg" group-title="Variedades",MTV HD
+https://nn3.azureedge.net//hls1/mtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/mtv.jpg" group-title="Variedades",MTV SD
+https://nn3.azureedge.net//hls1/mtv-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/multishow.jpg" group-title="Variedades",Multishow HD
+https://nn4.azureedge.net//hls1/multishow.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/multishow.jpg" group-title="Variedades",Multishow SD
+https://nn4.azureedge.net//hls1/multishow-sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tlc.jpg" group-title="Variedades",Discovery TLC HD
+https://nn4.azureedge.net//hls1/tlc.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tlc.jpg" group-title="Variedades",Discovery TLC SD
+https://nn4.azureedge.net//hls1/tlc-sd.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.hittv.es/img/cabeceras/HITtv3.jpg" group-title="Variedades",HIT TV HD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.hittv.es/img/cabeceras/HITtv3.jpg" group-title="Variedades",HIT TV SD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",#ListaMTZ
+http://0.0.0.0/
