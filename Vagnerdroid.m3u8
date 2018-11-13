@@ -575,5 +575,4 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="http://www.hittv.es/img/cabeceras/HITtv3.jpg" group-title="Variedades",HIT TV SD
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",#ListaMTZ
-http://0.0.0.0/
+#EXTINF: -1 tvg-logo = "" group-title = "", #Vagnerdroid
