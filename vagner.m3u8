@@ -1,0 +1,107 @@
+#EXTM3U
+
+DOCUMENTARIOS
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="DOCUMENTÁRIOS",A&E
+http://goldiptv.ml/A&EHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="DOCUMENTÁRIOS", ANIMAL PLANET
+http://goldiptv.ml/ANIMALPLANETHD/mpegts?token=mSHZ0e0gQ1
+
+
+
+
+TV ABERTA
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="TV ABERTA",SBT SP
+http://goldiptv.ml/SBTHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="TV ABERTA",GLOBO SP
+http://goldiptv.ml/GLOBOSPHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="TV ABERTA", GLOBO RJ
+http://goldiptv.ml/GLOBORJHD/mpegts?token=mSHZ0e0gQ1
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="TV ABERTA", APARECIDA
+http://caikron.com.br:1935/tvap/tvap.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="TV ABERTA", TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="TV ABERTA", RECORD SP
+http://goldiptv.ml/RECORDSPHD/mpegts?token=mSHZ0e0gQ1
+
+
+
+CANAL VARIEDADES
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="Variedades", FOX
+http://goldiptv.ml/FOXHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="Variedades", HBO
+http://goldiptv.ml/HBOHD/mpegts?token=mSHZ0e0gQ1
+
+
+
+
+
+ESPORTES
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="SPORTES", COMBATE
+http://goldiptv.ml/COMBATEHD/mpegts?token=mSHZ0e0gQ1
+
+
+CANAL FILMES
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="FILMES",T. PIPOCA
+http://goldiptv.ml/TELECINEPIPOCAHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="FILMES",T. ACTION
+http://goldiptv.ml/TELECINEACTIONHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="FILMES",T. PREMUIM
+http://goldiptv.ml/TELECINEPREMIUMHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="FILMES", TNT
+http://goldiptv.ml/TNTHD/mpegts?token=mSHZ0e0gQ1
+
+
+
+DESENHOS
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="INFANTIL", BOOMERANG
+http://goldiptv.ml/BOOMERANGHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="INFANTIL", DISCOVERY KIDS
+http://goldiptv.ml/DISCOVERYKIDSHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="INFANTIL", DISNEY CHANNEL
+http://goldiptv.ml/DISNEYCHANNELHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="INFANTIL", DISNEY JUNIOR
+http://goldiptv.ml/DISNEYJUNIORHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="https://listasiptvonline.com/logo.pnghttps://imgur.com/OZQs5le" group-title="INFANTIL", CARTOON NETWORK
+http://goldiptv.ml/CARTOONNETWORKHD/mpegts?token=mSHZ0e0gQ1
