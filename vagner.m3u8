@@ -63,6 +63,9 @@ http://goldiptv.ml/FOXHD/mpegts?token=mSHZ0e0gQ1
 #EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="Variedades", HBO
 http://goldiptv.ml/HBOHD/mpegts?token=mSHZ0e0gQ1
 
+#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="FILMES", AXN
+http://goldiptv.ml/AXNHD/mpegts?token=mSHZ0e0gQ1
+
 
 
 
