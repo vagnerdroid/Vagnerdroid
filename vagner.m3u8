@@ -2,10 +2,10 @@
 
 DOCUMENTARIOS
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="DOCUMENTÁRIOS",A&E
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_AEE.png" group-title="DOCUMENTÁRIOS",A&E
 http://goldiptv.ml/A&EHD/mpegts?token=mSHZ0e0gQ1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="DOCUMENTÁRIOS", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_ANIMALPLANET.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET
 http://goldiptv.ml/ANIMALPLANETHD/mpegts?token=mSHZ0e0gQ1
 
 
@@ -13,30 +13,30 @@ http://goldiptv.ml/ANIMALPLANETHD/mpegts?token=mSHZ0e0gQ1
 
 TV ABERTA
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="TV ABERTA",SBT SP
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_SBT.png" group-title="TV ABERTA",SBT SP
 http://goldiptv.ml/SBTHD/mpegts?token=mSHZ0e0gQ1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="TV ABERTA",GLOBO SP
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_GLOBOHD.png" group-title="TV ABERTA",GLOBO SP
 http://goldiptv.ml/GLOBOSPHD/mpegts?token=mSHZ0e0gQ1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="TV ABERTA", GLOBO RJ
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_GLOBOHD.png" group-title="TV ABERTA", GLOBO RJ
 http://goldiptv.ml/GLOBORJHD/mpegts?token=mSHZ0e0gQ1
 
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_BANDHD.png" group-title="TV ABERTA", BAND
+http://bitly.com:80/Banddd
+
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_RECORDTV.png" group-title="TV ABERTA", RECORD SP
+http://goldiptv.ml/RECORDSPHD/mpegts?token=mSHZ0e0gQ1
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="TV ABERTA", APARECIDA
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_APARECIDA.pnge" group-title="TV ABERTA", APARECIDA
 http://caikron.com.br:1935/tvap/tvap.stream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="TV ABERTA", TV GAZETA
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_REDETV.jpg" group-title="TV ABERTA", REDE TV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 
 
 
@@ -45,26 +45,20 @@ http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="TV ABERTA", RECORD SP
-http://goldiptv.ml/RECORDSPHD/mpegts?token=mSHZ0e0gQ1
 
 
 
 CANAL VARIEDADES
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="Variedades", FOX
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/98X55_LOGO_SKY_FoxChannel_Color.jpg" group-title="Variedades", FOX
 http://goldiptv.ml/FOXHD/mpegts?token=mSHZ0e0gQ1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="Variedades", HBO
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_HBO.png" group-title="Variedades", HBO
 http://goldiptv.ml/HBOHD/mpegts?token=mSHZ0e0gQ1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="FILMES", AXN
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_AXN.png" group-title="Variedades", AXN
 http://goldiptv.ml/AXNHD/mpegts?token=mSHZ0e0gQ1
+
 
 
 
@@ -72,39 +66,63 @@ http://goldiptv.ml/AXNHD/mpegts?token=mSHZ0e0gQ1
 
 ESPORTES
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="SPORTES", COMBATE
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", COMBATE
 http://goldiptv.ml/COMBATEHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", ESPORTE INTERATIVO HD
+http://bitly.com:80/esporteinterativo-1hd
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", ESPORTE INTERATIVO 2 HD
+http://bitly.com:80/esporteinterativo-2hd
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", FOX SPORTS
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+
+
 
 
 CANAL FILMES
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="FILMES",T. PIPOCA
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOG_SKY_TCPIPOCA.png" group-title="FILMES",T. PIPOCA
 http://goldiptv.ml/TELECINEPIPOCAHD/mpegts?token=mSHZ0e0gQ1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="FILMES",T. ACTION
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_TCA.png" group-title="FILMES",T. ACTION
 http://goldiptv.ml/TELECINEACTIONHD/mpegts?token=mSHZ0e0gQ1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="FILMES",T. PREMUIM
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOG_SKY_TCPREMIUM.png" group-title="FILMES",T. PREMUIM
 http://goldiptv.ml/TELECINEPREMIUMHD/mpegts?token=mSHZ0e0gQ1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="FILMES", TNT
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/New+TNT+logo-01+%281%29.png" group-title="FILMES", TNT
 http://goldiptv.ml/TNTHD/mpegts?token=mSHZ0e0gQ1
 
+#EXTINF:-1 tvg-logo="" group-title="FILMES" GOSPEL MOVIES TELEVISION
+http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CLIPES" MUSIC TELEVISION WEB
+http://stmv4.euroti.com.br:1935/cancaogospel/cancaogospel/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CLIPES" KISS TV
+http://stmv3.euroti.com.br:1935/kisstv/kisstv/live.m3u8
 
 
 DESENHOS
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="INFANTIL", BOOMERANG
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_CARTOONNETWORKHD+%282%29.png" group-title="INFANTIL", BOOMERANG
 http://goldiptv.ml/BOOMERANGHD/mpegts?token=mSHZ0e0gQ1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="INFANTIL", DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_DISCOVERYKIDS+%281%29.png" group-title="INFANTIL", DISCOVERY KIDS
 http://goldiptv.ml/DISCOVERYKIDSHD/mpegts?token=mSHZ0e0gQ1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="INFANTIL", DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_DSNchannel.png/14cc94c2-c91e-b344-9d20-362c0403a822?t=1521052398527" group-title="INFANTIL", DISNEY CHANNEL
 http://goldiptv.ml/DISNEYCHANNELHD/mpegts?token=mSHZ0e0gQ1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OZQs5le" group-title="INFANTIL", DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_DSNjr.png" group-title="INFANTIL", DISNEY JUNIOR
 http://goldiptv.ml/DISNEYJUNIORHD/mpegts?token=mSHZ0e0gQ1
 
-#EXTINF:-1 tvg-logo="https://listasiptvonline.com/logo.pnghttps://imgur.com/OZQs5le" group-title="INFANTIL", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_CARTOONNETWORKHD+%281%29.png" group-title="INFANTIL", CARTOON NETWORK
 http://goldiptv.ml/CARTOONNETWORKHD/mpegts?token=mSHZ0e0gQ1
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", GOSPEL CARTOON
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
