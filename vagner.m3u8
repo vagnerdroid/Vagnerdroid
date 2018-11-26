@@ -25,6 +25,9 @@ http://goldiptv.ml/GLOBORJHD/mpegts?token=mSHZ0e0gQ1
 #EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_BANDHD.png" group-title="TV ABERTA", BAND
 http://bitly.com:80/Banddd
 
+#EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_BANDHD.png" group-title="TV ABERTA", BAND HD
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/2334.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_RECORDTV.png" group-title="TV ABERTA", RECORD SP
 http://goldiptv.ml/RECORDSPHD/mpegts?token=mSHZ0e0gQ1
 
@@ -39,7 +42,10 @@ http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 
 
+NOTICIAS
 
+#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS", BAND NEWS HD
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/7481.m3u8
 
 
 
@@ -81,10 +87,16 @@ http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES", SPORTV 2 SD
 http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", BAND ESPORTES HD
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/7479.m3u8
+
 
 
 
 CANAL FILMES
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES", AMC HD
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/2344.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOG_SKY_TCPIPOCA.png" group-title="FILMES",T. PIPOCA
 http://goldiptv.ml/TELECINEPIPOCAHD/mpegts?token=mSHZ0e0gQ1
@@ -135,8 +147,16 @@ http://goldiptv.ml/DISNEYJUNIORHD/mpegts?token=mSHZ0e0gQ1
 #EXTINF:-1 tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_CARTOONNETWORKHD+%281%29.png" group-title="INFANTIL", CARTOON NETWORK
 http://goldiptv.ml/CARTOONNETWORKHD/mpegts?token=mSHZ0e0gQ1
 
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", GLOOB HD
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/2142.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", BABY TV
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/2336.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="INFANTIL", GOSPEL CARTOON
 http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INFANTIL", TV TEEN NET
 http://stmv2.euroti.com.br:1935/tvteennet/tvteennet/live.m3u8
+
+
